@@ -6,8 +6,9 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: radial-gradient(ellipse, #929ade 12%, #6275d1);
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9192cab2-667e-4641-920d-5ed6cd554c15/d8fzxcq-4399d43f-3685-43a1-bc74-0611ef2f055c.png/v1/fill/w_1024,h_1280,q_80,strp/purple___blue_gradient___custom_box_background_by_rnewls_d8fzxcq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzkxOTJjYWIyLTY2N2UtNDY0MS05MjBkLTVlZDZjZDU1NGMxNVwvZDhmenhjcS00Mzk5ZDQzZi0zNjg1LTQzYTEtYmM3NC0wNjExZWYyZjA1NWMucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.GClmvnk9czR3dcYxAAV56txGcrqwWVg-DEVwJmP2AF0);
     background-repeat: repeat-y;
+	background-size: cover;
     overflow-x: hidden;
     overflow-y: auto;
 }
@@ -25,9 +26,9 @@ body {
     position: relative;
     font-size: 6vmin;
     word-break: keep-all;
-    font-weight: bolder;
     filter: drop-shadow(0 0 30px #ffffff);
     padding: 1vh 0;
+	color: white;
 }
 
 .pfp {
@@ -40,7 +41,7 @@ body {
     width: auto;
     height: 30vmin;
     border-radius: 50%;
-    filter: drop-shadow(0px 0px 30px #ffa0da);
+    filter: drop-shadow(0px 0px 30px #4c485c);
 }
 
 .links {
@@ -53,8 +54,9 @@ body {
     width: 8vmin;
     height: auto;
     padding: 2.5vh 2vw 0;
-    filter: drop-shadow(0px 0px 40px ##ffffff);
+    filter: drop-shadow(0px 0px 40px #ffffff);
     vertical-align: middle;
+	color:white;
 }
 
 #pp-li {
