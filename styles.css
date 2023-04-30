@@ -6,7 +6,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: radial-gradient(ellipse, #ffa0da 12%, #ff69b8);
+    background-image: radial-gradient(ellipse, #929ade 12%, #6275d1);
     background-repeat: repeat-y;
     overflow-x: hidden;
     overflow-y: auto;
@@ -15,7 +15,7 @@ body {
 /* .body-bg {
     width: 100%;
     height: 100%;
-    background-image: radial-gradient(ellipse, #ffb1ff 12%, #8d2ced);
+    background-image: radial-gradient(ellipse, #b1beff 12%, #6275d1);
     background-repeat: repeat-y;
     overflow-x: hidden;
     overflow-y: auto;
